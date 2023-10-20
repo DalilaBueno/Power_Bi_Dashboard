@@ -1,5 +1,5 @@
 # power_bi_dashboard
-O DATASET DESSE TRABALHO É DO SETOR DE COMPRAS DE UMA LOJA DE PRODUTOS ELETRÔNICOS. 
+O DATASET deste trabalho é do setor de compras de uma loja de produtos eletrônicos.
 São compras feitas da loja e a representação dos valores gastos em compras dos produtos de acordo com fornecedor, por mês/ano, 
 ou por região do país.  
 Relatórios dos valores que a empresa comprou de acordo com cada fornecedor, o produto mais comprado, o preço original e o preço com desconto 
